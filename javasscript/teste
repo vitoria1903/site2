@@ -1,0 +1,3 @@
+const languagens = ['Raquel', 'Elizangela', 'Renata']
+const numbers = [49, 45, 40]
+const user
